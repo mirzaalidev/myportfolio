@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "SaaS Landing Page",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
+    image: "/myportfolio/projects/project1.png",
     tags: ["React", "TailwindCSS"],
     
   },
@@ -14,7 +14,7 @@ const projects = [
     title: "Orbit Analytics Dashboard",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
+    image: "/myportfolio/projects/project2.png",
     tags: ["HTML", "CSS", "React.js"],
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+    image: "/myportfolio/projects/project3.png",
     tags: ["HTML", "CSS", "Wordpress"],
     
   },
@@ -31,7 +31,7 @@ const projects = [
     title: "Be Searchable – SEO Agency Website",
     description:
       "Be Searchable, an international SEO agency based in Lisbon and Cape Town. The site highlights their services, including technical SEO, link-building, and white-label solutions.",
-    image: "/projects/project4.jpg",
+    image: "/myportfolio/projects/project4.jpg",
     tags: ["HTML", "CSS", "Php","Laravel"],
     
   },
@@ -40,7 +40,7 @@ const projects = [
     title: "PREI Capital – Mortgage Brokerage Website",
     description:
       "PREI Capital, a California-based mortgage brokerage. The site offers services such as home purchase loans, refinancing, and divorce-related lending.",
-    image: "/projects/project5.jpg",
+    image: "/myportfolio/projects/project5.jpg",
     tags: ["HTML", "CSS", "Php","Laravel"],
     
   },
